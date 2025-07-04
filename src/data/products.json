@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "iPhone 15",
+            "ar": "آيفون 15"
+        },
+        "price": 999,
+        "original_price": 1199,
+        "type": "simple",
+        "image": "https://picsum.photos/seed/1/300/300",
+        "discount": 200,
+        "is_featured": true,
+        "ai_suggested": true
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "T-Shirt",
+            "ar": "تي شيرت"
+        },
+        "type": "variable",
+        "variations": [
+            {
+                "price": 50
+            },
+            {
+                "price": 75
+            },
+            {
+                "price": 60
+            }
+        ],
+        "image": "https://picsum.photos/seed/2/300/300",
+        "is_featured": false,
+        "ai_suggested": false
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Wireless Headphones",
+            "ar": "سماعات لاسلكية"
+        },
+        "price": 299,
+        "original_price": 399,
+        "type": "simple",
+        "image": "https://picsum.photos/seed/3/300/300",
+        "discount": 100,
+        "is_featured": true,
+        "ai_suggested": false
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Coffee Mug",
+            "ar": "كوب قهوة"
+        },
+        "type": "variable",
+        "variations": [
+            {
+                "price": 15
+            },
+            {
+                "price": 25
+            },
+            {
+                "price": 20
+            }
+        ],
+        "image": "https://picsum.photos/seed/4/300/300",
+        "is_featured": false,
+        "ai_suggested": true
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Gaming Mouse",
+            "ar": "ماوس ألعاب"
+        },
+        "price": 89,
+        "original_price": 120,
+        "type": "simple",
+        "image": "https://picsum.photos/seed/5/300/300",
+        "discount": 31,
+        "is_featured": false,
+        "ai_suggested": true
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Backpack",
+            "ar": "حقيبة ظهر"
+        },
+        "type": "variable",
+        "variations": [
+            {
+                "price": 85
+            },
+            {
+                "price": 95
+            },
+            {
+                "price": 105
+            }
+        ],
+        "image": "https://picsum.photos/seed/6/300/300",
+        "is_featured": true,
+        "ai_suggested": false
+    }
+]

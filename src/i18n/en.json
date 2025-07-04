@@ -1,0 +1,22 @@
+{
+    "featured": "Featured",
+    "aiSuggested": "AI Suggested",
+    "off": "Off",
+    "from": "From",
+    "to": "to",
+    "bhd": "BHD",
+    "switchLanguage": "العربية",
+    "compare": "Compare",
+    "compareList": "Compare List",
+    "removeFromCompare": "Remove from Compare",
+    "addToCompare": "Add to Compare",
+    "maxCompareReached": "You can only compare up to 3 products",
+    "productCards": "Products",
+    "simple": "Simple",
+    "variable": "Variable",
+    "like": "Like",
+    "liked": "Liked",
+    "addToWishlist": "Add to wishlist",
+    "removeFromWishlist": "Remove from wishlist",
+    "clear": "Clear"
+}
