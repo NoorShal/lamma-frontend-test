@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import ProductCard from './components/ProductCard';
 import CompareList from './components/CompareList';
-import useStore from './store/useStore';
 import useLocalization from './hooks/useLocalization';
 import productsData from './data/products.json';
 import './i18n/config';
