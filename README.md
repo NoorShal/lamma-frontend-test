@@ -52,5 +52,11 @@ The app uses react-i18next for multi language support:
 - Provides simple: `t()`, `isRTL`, `toggleLanguage()`
 - Encapsulates all i18n logic in one place
 
+## Assumptions
+
+- No UI component libraries used to keep bundle light and for simplicity
+- Tailwind CSS for  styling
+- Lucide React icons intead of hardcoded SVGs
+- react-i18next for localization
 
 ---
